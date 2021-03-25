@@ -9,7 +9,10 @@ Se de alguma forma eu puder ajudar, entre em contato comigo que terei prazer em 
 ## Contatos
 
 [![Gmail Badge](https://img.shields.io/badge/guilhermeher10@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white&link=mailto:guilhermeher10@gmail.com)](mailto:guilhermeher10@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Henrique-6C63FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)](https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)    
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Henrique-6C63FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)](https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)   
+
+Acesse meu site pessoal e conheça um pouco mais sobre meus projetos!    
+[![Site pessoal](https://img.shields.io/badge/-Site%20Pessoal-6C63FF?style=flat-square&logo=github&logoColor=white&link=https://guilhermehenriquesantos.github.io/)](https://guilhermehenriquesantos.github.io/) 
 
 ----------
 As tecnologias que costumo brincar um pouco: **HTML | CSS | JS | TS | ANGULAR | PYTHON | JAVA | FIGMA**
