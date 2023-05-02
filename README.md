@@ -1,18 +1,22 @@
-# Guilherme Henrique
+# 🖥️ Guilherme Henrique
 
-Sou estudante do curso de sistemas de informação na Universidade Federal de Uberlândia e amo aprender diversos assuntos relacionados à tecnologia da informação e preferencialmente, tenho mais afinidade com a parte de front-end de uma aplicação web, porém me aventuro muito no mundo do Python também e busco sempre saber um pouquinho mais sobre a linguagem.
+Possuo formação em Bacharelado em Sistemas de Informação pela Universidade Federal de Uberlândia e conto com mais de três anos de experiência no mercado de tecnologia, onde venho desempenhando o papel de desenvolvedor web full stack. Como profissional entusiasta, possuo interesse particular pelo design de interfaces, pela experiência do usuário, pelo desenvolvimento de aplicações front-end e pela segurança da informação, última área em que busco aprimoramento constante. Almejo, portanto, uma oportunidade no campo da cibersegurança, a fim de aplicar meus conhecimentos e compartilhar ideias e conteúdos com outros membros da comunidade.
 
-Além do amor pelo desenvolvimento, gosto muito de fazer design de telas para aplicações web ou nativas, criação e edição de imagens/figuras utilizando a ferramenta Figma.
+## 🌐 Contatos
 
-Se de alguma forma eu puder ajudar, entre em contato comigo que terei prazer em conversar com você. Obrigado por ler até aqui, esse é só pouquinho de mim.
+Caso necessite de minha colaboração, por favor, sinta-se à vontade para entrar em contato comigo. Terei o maior prazer em discutir qualquer assunto que julgar pertinente.
 
-## Contatos
+[![Gmail Badge](https://img.shields.io/badge/guilhermeher10@gmail.com-B3261E?style=flat-square&logo=gmail&logoColor=white&link=mailto:guilhermeher10@gmail.com)](mailto:guilhermeher10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Henrique-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-ciberseguranca/)](https://www.linkedin.com/in/guilherme-henrique-ciberseguranca/)
 
-[![Gmail Badge](https://img.shields.io/badge/guilhermeher10@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white&link=mailto:guilhermeher10@gmail.com)](mailto:guilhermeher10@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Henrique-6C63FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)](https://www.linkedin.com/in/guilherme-henrique-de-ara%C3%BAjo-santos/)   
+## 🏢 Experiências Profissionais
 
-Acesse meu site pessoal e conheça um pouco mais sobre meus projetos!    
-[![Site pessoal](https://img.shields.io/badge/-Site%20Pessoal-6C63FF?style=flat-square&logo=github&logoColor=white&link=https://guilhermehenriquesantos.github.io/)](https://guilhermehenriquesantos.github.io/) 
+* 💻 Desenvolvimento em Python
+* 💻 Desenvolvimento em Java
+* 💻 Desenvolvimento Front-end em Angular (incluindo HTML, CSS, JavaScript e TypeScript)
+* 🎨 Design de interfaces usando a ferramenta Figma
 
-----------
-As tecnologias que costumo brincar um pouco: **HTML | CSS | JS | TS | ANGULAR | PYTHON | JAVA | FIGMA**
+## 📚 Formação Complementar
+
+* 🔒 Estudo em andamento no curso de Pentest Profissional oferecido pela Solyd, com ênfase em técnicas avançadas de segurança da informação e testes de invasão em ambientes empresariais.
+* 📖 Leitura em andamento dos livros "Sistemas Operacionais Modernos" de Andrew S. Tanenbaum e "Entendendo Algoritmos" de Aditya Y. Bhargava, visando aprimorar meus conhecimentos em sistemas operacionais e algoritmos, respectivamente.
