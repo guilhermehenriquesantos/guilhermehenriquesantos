@@ -1,6 +1,6 @@
 # 🖥️ Guilherme Henrique
 
-Possuo formação em Bacharelado em Sistemas de Informação pela Universidade Federal de Uberlândia e conto com mais de três anos de experiência no mercado de tecnologia, onde venho desempenhando o papel de desenvolvedor web full stack. Como profissional entusiasta, possuo interesse particular pelo design de interfaces, pela experiência do usuário, pelo desenvolvimento de aplicações front-end e pela segurança da informação, última área em que busco aprimoramento constante. Almejo, portanto, uma oportunidade no campo da cibersegurança, a fim de aplicar meus conhecimentos e compartilhar ideias e conteúdos com outros membros da comunidade.
+Formado em Bacharelado em Sistemas de Informação pela Universidade Federal de Uberlândia, trago mais de três anos de experiência dinâmica no mercado de tecnologia. Minha trajetória como desenvolvedor web full stack forneceu uma base sólida em design de interfaces e desenvolvimento front-end. O que realmente diferencia minha jornada é minha paixão e experiência em segurança da informação, particularmente em sistemas operacionais e pentest. Atualmente, estou ampliando meu domínio nessa área por meio de uma pós-graduação em Segurança e Defesa Cibernética. Estou determinado a aplicar minhas habilidades e expertise em cibersegurança para contribuir com um ambiente digital mais seguro e resiliente.
 
 ## 🌐 Contatos
 
@@ -18,5 +18,5 @@ Caso necessite de minha colaboração, por favor, sinta-se à vontade para entra
 
 ## 📚 Formação Complementar
 
-* 🔒 Estudo em andamento no curso de Pentest Profissional oferecido pela Solyd, com ênfase em técnicas avançadas de segurança da informação e testes de invasão em ambientes empresariais.
-* 📖 Leitura em andamento dos livros "Sistemas Operacionais Modernos" de Andrew S. Tanenbaum e "Entendendo Algoritmos" de Aditya Y. Bhargava, visando aprimorar meus conhecimentos em sistemas operacionais e algoritmos, respectivamente.
+* 🔒 Estudo da trilha bug hunter da plataforma Hack the Box Academy.
+* 📖 Pós graduação Lato Sensu - Especialização em Segurança e Defesa Cibernética.
