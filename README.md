@@ -1,3 +1,9 @@
+<!-- logo -->
+<div align="center">
+  <img src="https://guilhermehenriquesantos.github.io/favicon-192.png" width="64" alt="guilherme.tech" />
+</div>
+<!-- /logo -->
+
 # Guilherme Henrique
 
 Analista de TI e Desenvolvedor Full Stack com 6+ anos de experiência no ambiente hospitalar. Formado em Sistemas de Informação pela UFU, com passagens por banco, ERP e segurança da informação. Foco em experiência do usuário, qualidade de código e uso prático de IA no desenvolvimento.
